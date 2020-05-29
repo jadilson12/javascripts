@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,MAAM,CAAC;EACH,gBAAgB,EDAE,OAAO;ECCzB,KAAK,EDFU,IAAI;ECGnB,SAAS,EAAE,KAAK;CACnB",
+    "sources": [
+        "index.scss",
+        "botao.scss"
+    ],
+    "names": [],
+    "file": "index.css"
+}
